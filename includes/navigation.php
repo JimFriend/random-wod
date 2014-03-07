@@ -8,7 +8,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/phpbs-starter/index.php">PHP Bootstrap Starter</a>
+          <a class="navbar-brand" href="/phpbs-starter/index.php">Random WOD Project</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">

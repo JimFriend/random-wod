@@ -14,15 +14,15 @@
 	$db_host = "localhost";
 	$db_user = "root";
 	$db_pass = "root";
-	$db_name = "phpbs_starter";
+	$db_name = "random_wod";
 	$db_port = "8889";
 	$db_table_prefix = "userpie_";
 
 	$langauge = "en";
 	
 	//Generic website variables
-	$websiteName = "PHPBS Starter";
-	$websiteUrl = "http://localhost:8888/phpbs-starter/"; //including trailing slash
+	$websiteName = "Random WOD Project";
+	$websiteUrl = "http://localhost:8888/random-wod/"; //including trailing slash
 
 	//Do you wish UserPie to send out emails for confirmation of registration?
 	//We recommend this be set to true to prevent spam bots.
@@ -35,7 +35,7 @@
 	$resend_activation_threshold = 1;
 	
 	//Tagged onto our outgoing emails
-	$emailAddress = "noreply@phpbs-starter.com";
+	$emailAddress = "noreply@random-wod-project.com";
 	
 	//Date format used on email's
 	$emailDate = date("l \\t\h\e jS");
